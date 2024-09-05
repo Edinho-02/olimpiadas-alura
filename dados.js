@@ -17,4 +17,9 @@ let dados = [
       "Bia Souza, nascida em 20 de maio de 1998, na cidade paulista de Itariri, Beatriz é a filha mais nova do militar aposentado do Corpo de Bombeiros de São Paulo e ex-judoca brasileiro Poscedonio José de Souza Neto, mas foi criada na cidade de Peruíbe. Além de atleta, é sargento do exército brasileiro. Casou-se com o ex-jogador de basquete Daniel Souza. Foi a primeira brasileira a ganhar a medalha de ouro nas Olimpíadas Paris 2024.",
     link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
   },
+  {
+    titulo: "Tatiana Weston-Webb",
+    descricao: "Tatiana Weston-Webb é uma surfista brasileira, reconhecida por seu desempenho nas ondas. Ela é uma das maiores representantes do surf brasileiro no cenário mundial.",
+    Link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb",
+  },
 ];
